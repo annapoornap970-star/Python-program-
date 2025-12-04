@@ -1,0 +1,5 @@
+print ("Additional of two numbers")
+a=7
+b=5
+sum=a+b
+print ("Sum":sum) 
